@@ -10,15 +10,10 @@
     </div>
 </header>
 <body>
-<div class="body">
-    <table style="width: 100%;">
-        <tr>
-            <td class="Welcome" style="border-width: 40%; border: 1px solid black;">
-                <h2>Welcome!</h2>
-            </td>
-        </tr>
-    </table>
-</div>
+<table>
+<tr>
+    <td style="width: 50%;"><h2>Welcome</h2></td>
+</tr>
+</table>
 </body>
-
 </html>

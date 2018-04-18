@@ -1,6 +1,29 @@
 * { 
     background-color: aliceblue;
+    margin: 0;
 }
 .title {
+    background-color: white;
+}
+.title h1 {
     color: green;
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+}
+.title p {
+    color: rebeccapurple;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 10px;
+    z-index: 1;
+}
+.body {
+    margin-top: 50px;
+}
+.info_1 {
+    margin-left: 100px;
+    text-align: center;
+    
 }

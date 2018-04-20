@@ -1,4 +1,2 @@
-window.onload = function() {
-    var title = "The Artibus"
-    document.getElementsByTagName("title").innerHTML = title
-}
+var title = "The Artibus";
+var description = "Welcome to your friendly neighborhood forum hosting!"
